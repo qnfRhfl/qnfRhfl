@@ -1,6 +1,6 @@
 ## Hello 👋
-AI&date
- - 
+ 신구대 재학중
+ - 2022년 입학
 
 <!--
 **qnfRhfl/qnfRhfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
