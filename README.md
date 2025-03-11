@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello 👋
+Ai 학부 재학중입니다.
+ - 22학번
 
 <!--
 **qnfRhfl/qnfRhfl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
